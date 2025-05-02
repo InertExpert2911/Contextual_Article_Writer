@@ -1,20 +1,18 @@
-# Contextual Article Writer ✍️📄✨
+# Contextual Article Writer ✍️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://opensource.org/licenses/MIT) [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![Made with Gradio](https://img.shields.io/badge/Made%20with-Gradio-orange)](https://www.gradio.app/) [![Uses Gemini API](https://img.shields.io/badge/Uses-Gemini%20API-green)](https://ai.google.dev/) [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
 [![Open In Kaggle](https://img.shields.io/badge/Open%20In-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/tharunreddy2911/contextual-article-writer) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1us_rmp7YpYaLR2nVUgRYFA6Tw7tjBV9f?usp=sharing)
 
-### Transform raw information from URLs and documents into structured article drafts using the power of Google Gemini and an interactive workflow.
-
 ## Table of Contents
 
-* [Bridging Context & Content](#introduction-bridging-context-&-content-)
+* [Bridging Context & Content](#bridging-context-)
 * [Core Capabilities](#core-capabilities-)
 * [The Workflow](#the-workflow-)
 * [Quick Start](#quick-start-)
-* [Detailed Setup Instructions](#detailed-setup-instructions-)
+* [Setup Instructions](#setup-instructions-)
 * [Running the Application](#running-the-application-)
 * [Usage Scenarios](#usage-scenarios-)
-* [Important Considerations & Limitations](#important-considerations-limitations-)
+* [Important Considerations & Limitations](#important-considerations--limitations-)
 * [Contributing](#contributing-)
 
 
@@ -33,11 +31,11 @@ This tool aims to help you move faster from research to a polished first draft, 
 
 ## Core Capabilities ✨
 
-1.  **📚 Context Processing & Understanding:** Intelligently extracts and processes text from multiple URLs and common document formats (PDF, DOCX) to establish a contextual foundation using Google Gemini.
-2.  **✏️ AI-Assisted Outlining & Editing:** Generates detailed, context-aware Markdown outlines (headings, keywords) and provides an interactive UI textbox for seamless user refinement before drafting.
-3.  **✍️ Structured Article Drafting:** Writes comprehensive article drafts that strictly adhere to the structure and flow defined in the user-confirmed outline.
-4.  **🔄 Customizable & Iterative Workflow:** Offers controls for generation parameters (tone, audience, word count) and supports easy regeneration of outlines or articles with additional user feedback for refinement.
-5.  **🚀 Flexible & Accessible Platform:** Runs smoothly on Kaggle, Google Colab, or local Jupyter environments with automatic, secure API key detection and standard export options (MD, TXT).
+* **📚 Context Processing & Understanding:** Intelligently extracts and processes text from multiple URLs and common document formats (PDF, DOCX) to establish a contextual foundation using Google Gemini.
+* **✏️ AI-Assisted Outlining & Editing:** Generates detailed, context-aware Markdown outlines (headings, keywords) and provides an interactive UI textbox for seamless user refinement before drafting.
+* **✍️ Structured Article Drafting:** Writes comprehensive article drafts that strictly adhere to the structure and flow defined in the user-confirmed outline.
+* **🔄 Customizable & Iterative Workflow:** Offers controls for generation parameters (tone, audience, word count) and supports easy regeneration of outlines or articles with additional user feedback for refinement.
+* **🚀 Flexible & Accessible Platform:** Runs smoothly on Kaggle, Google Colab, or local Jupyter environments with automatic, secure API key detection and standard export options (MD, TXT).
 
 ## The Workflow 📝
 
@@ -53,7 +51,7 @@ The tool guides you through a multi-tab interface:
 
 [![Open In Kaggle](https://img.shields.io/badge/Open%20In-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/tharunreddy2911/contextual-article-writer) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1us_rmp7YpYaLR2nVUgRYFA6Tw7tjBV9f?usp=sharing)
 
-## Detailed Setup Instructions 🛠️
+## Setup Instructions 🛠️
 
 Setting up requires a Google Gemini API key configured securely. **Never paste your API key directly into the code!**
 
