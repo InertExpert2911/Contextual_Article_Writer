@@ -3,11 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://opensource.org/licenses/MIT) [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![Made with Gradio](https://img.shields.io/badge/Made%20with-Gradio-orange)](https://www.gradio.app/) [![Uses Gemini API](https://img.shields.io/badge/Uses-Gemini%20API-green)](https://ai.google.dev/) [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
 [![Open In Kaggle](https://img.shields.io/badge/Open%20In-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/tharunreddy2911/contextual-article-writer) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1us_rmp7YpYaLR2nVUgRYFA6Tw7tjBV9f?usp=sharing)
 
-----
-
 ### Transform raw information from URLs and documents into structured article drafts using the power of Google Gemini and an interactive workflow.
-
-----
 
 ## Table of Contents
 
@@ -18,10 +14,9 @@
 * [Detailed Setup Instructions](#detailed-setup-instructions-)
 * [Running the Application](#running-the-application-)
 * [Usage Scenarios](#usage-scenarios-)
-* [Important Considerations & Limitations](#important-considerations--limitations-)
+* [Important Considerations & Limitations](#important-considerations-limitations-)
 * [Contributing](#contributing-)
 
----
 
 ## Bridging Context & Content 🌉
 
@@ -133,6 +128,6 @@ Contributions, bug reports, and feature ideas are welcome!
 2.  **Open an Issue:** Clearly describe the bug (with steps to reproduce) or enhancement suggestion.
 3.  **Pull Requests:** Please fork the repo, create a feature branch, make your changes (with comments and testing), and submit a PR with a clear description.
 
----
+----
 
 ### ✨ Go from scattered sources to structured drafts in minutes. Happy writing! ✨
