@@ -1,4 +1,4 @@
-# Contextual Article Writer ✍️
+# Contextual Content Creator ✍️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://opensource.org/licenses/MIT) [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![Made with Gradio](https://img.shields.io/badge/Made%20with-Gradio-orange)](https://www.gradio.app/) [![Uses Gemini API](https://img.shields.io/badge/Uses-Gemini%20API-green)](https://ai.google.dev/) [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter)](https://jupyter.org/)
 [![Open In Kaggle](https://img.shields.io/badge/Open%20In-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/tharunreddy2911/contextual-article-writer) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1us_rmp7YpYaLR2nVUgRYFA6Tw7tjBV9f?usp=sharing)
@@ -20,14 +20,14 @@
 
 Writing compelling, well-structured articles often begins with gathering information from various sources – web pages, reports, documents. Translating this raw context into a coherent narrative with a logical flow requires significant effort in synthesis and outlining before the actual writing even begins.
 
-The **Contextual Article Writer** is designed to accelerate this process. It acts as an intelligent assistant, leveraging Google's Gemini models to:
+The **Contextual Content Creator** is designed to accelerate this process. It acts as an intelligent assistant, leveraging Google's Gemini models to:
 
 1.  **Ingest and Understand:** Process text from provided URLs and documents (PDF/DOCX).
 2.  **Structure Ideas:** Generate a detailed, hierarchical outline based on your topic and the ingested context.
 3.  **Collaborate and Refine:** Allow you to interactively edit and approve the generated outline.
 4.  **Draft the Narrative:** Write a full article draft that follows your refined structure, grounded in the source material.
 
-This tool aims to help you move faster from research to a polished first draft, ready for your essential human review and enhancement.
+This agent aims to help you move faster from research to a polished first draft, ready for your essential human review and enhancement.
 
 ## Core Capabilities ✨
 
@@ -39,7 +39,7 @@ This tool aims to help you move faster from research to a polished first draft, 
 
 ## The Workflow 📝
 
-The tool guides you through a multi-tab interface:
+The agent guides you through a multi-tab interface:
 
 1.  **Input Sources (Tab 1 📥):** Provide URLs and/or upload documents. Click **"Process Sources & Go to Outline"**.
 2.  **Outline Generation & Editing (Tab 2 📝):** Define your article topic/prompt and generation parameters (industry, audience). Click **"Generate Outline"**. Review and **edit the outline** in the textbox. Click **"Confirm Outline & Go to Article Generation"**.
@@ -100,8 +100,6 @@ The script will automatically look for your key in these places, in this order. 
 6.  **Keep Active:** The Gradio UI requires the Python kernel/script to remain running.
 
 ## Usage Scenarios 🧭
-
-This tool can be valuable for:
 
 * **✍️ Writers & Bloggers:** Quickly structure posts and generate first drafts based on research notes or source links.
 * **📊 Researchers & Analysts:** Synthesize findings from multiple papers or reports into structured summaries or preliminary analyses.
